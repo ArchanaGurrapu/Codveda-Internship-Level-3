@@ -49,9 +49,9 @@ I developed a Python-based file encryption and decryption system to secure data 
                 decrypt_file(fname)
         
         
-        LEVEL 3 - ADVANCED 🔹 Task 2: N-Queens Problem
+LEVEL 3 - ADVANCED 🔹 Task 2: N-Queens Problem
         
-        Implemented the N-Queens problem using the backtracking algorithm in Python. The program places N queens on a chessboard such that no two queens attack each other. This task helped me strengthen my understanding of recursion, backtracking, and algorithmic problem-solving techniques.
+Implemented the N-Queens problem using the backtracking algorithm in Python. The program places N queens on a chessboard such that no two queens attack each other.This task helped me strengthen my understanding of recursion, backtracking, and algorithmic problem-solving techniques.
         
         def print_board(board):
             for row in board:
